@@ -4,21 +4,6 @@
 
 A fully reproducible pipeline for mining, featurizing and modeling CYP3A4 inhibitory activity of molecules.
 
-## Table of Contents
-1. Features
-2. Project Layout
-3. Quick Start
-4. Data Pipeline
-5. Feature Engineering
-6. Model Training
-7. Hyper-parameter Optimization
-8. Prediction & Submission
-9. Reproducing our Results
-10. Requirements
-11. Contributing
-12. License
-13. Acknowledgements
-
 ## Features
 - Automated data mining from BindingDB & PubChem
 - Clean merged dataset with IC₅₀ → pIC₅₀ conversion
