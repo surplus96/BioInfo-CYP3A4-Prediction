@@ -1,8 +1,8 @@
 # BioInfo-CYP3A4-Contest
 
-**Predictive modeling of CYP3A4 inhibition for small-molecule compounds.**
+**Predictive modeling of CYP3A4 inhibition for molecule compounds.**
 
-A fully reproducible pipeline for mining, featurizing and modeling CYP3A4 inhibitory activity of small molecules.
+A fully reproducible pipeline for mining, featurizing and modeling CYP3A4 inhibitory activity of molecules.
 
 ## Table of Contents
 1. Features
@@ -132,8 +132,3 @@ Pull requests are welcome!  Please open an issue first to discuss your proposed 
 ## License
 
 Distributed under the MIT License.  See `LICENSE` for more information.
-
-## Acknowledgements
-
-This repository was developed for the 2024 Bioinformatics CYP3A4 Activity Prediction Challenge.  
-We thank BindingDB, PubChem and the Chemprop team for providing open data & tooling.
